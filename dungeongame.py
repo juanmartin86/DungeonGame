@@ -1,5 +1,5 @@
 # DungeonGame v1.1
-# Copyright (c) 2014 Juan Martin
+# Copyright (c) 2015 Juan Martin
 # Licensed under the MIT license
 # http://www.opensource.org/licenses/mit-license.php
 
